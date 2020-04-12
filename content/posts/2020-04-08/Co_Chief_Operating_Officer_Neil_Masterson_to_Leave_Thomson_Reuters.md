@@ -7,7 +7,7 @@ title = "Co-Chief Operating Officer Neil Masterson to Leave Thomson Reuters"
 type = "post"
 +++
 
-Parsing with Readability failed. Original content:
+
 
 Skip to main navigation
 

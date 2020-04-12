@@ -7,7 +7,7 @@ title = "Thomson Reuters Appoints Kirk Koenigsbauer to the Board of Directors"
 type = "post"
 +++
 
-Parsing with Readability failed. Original content:
+
 
 Skip to main navigation
 

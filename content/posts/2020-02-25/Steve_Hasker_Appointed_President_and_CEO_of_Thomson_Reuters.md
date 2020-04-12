@@ -7,7 +7,7 @@ title = "Steve Hasker Appointed President and CEO of Thomson Reuters"
 type = "post"
 +++
 
-Parsing with Readability failed. Original content:
+
 
 Skip to main navigation
 

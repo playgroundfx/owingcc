@@ -25,16 +25,15 @@ googleAnalytics          = "UA-163481766-1"                               # Trac
     text = "posts"
 
 [[params.mainMenu]]
-    link = "gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
-
-[[params.mainMenu]]
     link = "about"
     text = "who owns this site?"
 
 [imaging]
     quality = 75
+
+[[params.mainMenu]]
+    text = "bounty.show"
+    link = "https://bounty.show/"
+[[params.mainMenu]]
+    text = "FIX API"
+    link = "https://www.fixapi.org/"

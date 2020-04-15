@@ -1,4 +1,4 @@
-baseurl                  = "https://owing.cc"           # Your domain name
+baseurl                  = "https://www.owing.cc"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -33,7 +33,7 @@ googleAnalytics          = "UA-163481766-1"                               # Trac
 
 [[params.mainMenu]]
     text = "bounty.show"
-    link = "https://bounty.show/"
+    link = "https://www.bounty.show/"
 [[params.mainMenu]]
     text = "FIX API"
     link = "https://www.fixapi.org/"
